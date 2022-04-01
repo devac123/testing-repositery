@@ -24,7 +24,8 @@
         "drupal/gtranslate": "^1.14",
         "drupal/inline_entity_form": "^1.0@RC",
         "drupal/lang_dropdown": "^2.0",
-        "drupal/paragraphs": "^1.13"
+        "drupal/paragraphs": "^1.13",
+        "drush/drush": "^11.0"
     },
     "conflict": {
         "drupal/drupal": "*"
