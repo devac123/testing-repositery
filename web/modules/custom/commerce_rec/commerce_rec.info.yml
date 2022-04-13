@@ -1,0 +1,10 @@
+name: 'Commerce Rec'
+description: 'Allows defining prices for specific stores, customers, quantities using price lists.'
+type: module
+core_version_requirement: ^8 || ^9
+package: Commerce (contrib)
+dependencies:
+  - commerce:commerce
+  - commerce:commerce_store
+  - commerce:commerce_price
+  - drupal:file

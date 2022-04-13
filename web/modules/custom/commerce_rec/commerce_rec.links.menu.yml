@@ -1,0 +1,12 @@
+commerce_rec.configuration:
+  title: 'Commerce Rec'
+  route_name: 'commerce_rec.configuration'
+  parent: 'commerce.configuration'
+  weight: -5
+
+commerce_rec.addProduct:
+  title: 'Configuration Form Example'
+  route_name: 'commerce_rec.addProduct'
+  parent: 'commerce_rec.configuration'
+  description: 'Sets Configuration Form Example'
+  weight: 100  
